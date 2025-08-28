@@ -1,0 +1,7 @@
+# Archivos y carpetas a ignorar
+node_modules/
+.env
+*.log
+*.tmp
+/home/node/.n8n/
+/scripts/flows-repo/
